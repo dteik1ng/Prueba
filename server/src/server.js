@@ -1,0 +1,1 @@
+// mongodb+srv://david:<password>@pruebatecnica.n8gt2xo.mongodb.net/?retryWrites=true&w=majority  ||  uri de la conexion de la base de datos
